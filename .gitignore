@@ -1,0 +1,4 @@
+# Ignore common files
+*.log
+*.swp
+*.DS_Store
